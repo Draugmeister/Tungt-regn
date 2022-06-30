@@ -1,6 +1,6 @@
-#Trekk
+# Trekk
 
-Trekk følgjer fiksjonen. Kvart trekk har ein utløysar, i feit skrift. Når utløysaren skjer i fiksjonen vert trekket utløyst og ein gjer det som står i trekket. Når eit trekk ber deg trilla er det alltid 2T6.
+Trekk er reglar som følgjer fiksjonen. Kvart trekk har ein utløysar, i feit skrift. Når utløysaren skjer i fiksjonen vert trekket utløyst og ein gjer det som står i trekket. Når eit trekk ber deg trilla er det alltid 2T6.
 
 Det er fleire __grunntrekk__ som alle kan gjera, i tillegg til at karakteren din kan få __personlege trekk__.  
 
