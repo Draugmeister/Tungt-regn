@@ -11,11 +11,12 @@ T8  |  Pistol og hagla |
 T10  |  Rifler og maskingevær |
 
 
-Dersom du tek skade og har på deg noko som forsvarar deg, kan du trekka forsvaret frå skaden.
+__Dersom du tek skade og har på deg noko som forsvarar deg, kan du trekka forsvaret frå skaden.__
 
-Omtrentleg vern:
-+1    Hjelm
-+2    Skuddsikker vest
+| Vern | Forsvar |
+| ------------- |: -------------:|
++1  |  Hjelm |
++2  |  Skuddsikker vest |
 
 
-Ein kniv mot strupen eller eit skot i nakken på kloss hold er alltid dødeleg. Då treng du ikkje trilla skade.
+__Ein kniv mot strupen eller eit skot i nakken på kloss hold er alltid dødeleg. Då treng du ikkje trilla skade.__
