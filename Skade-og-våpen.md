@@ -14,11 +14,6 @@ T10  |  Rifler og maskingevær|
 __Dersom du tek skade og har på deg noko som forsvarar deg, kan du trekka forsvaret frå skaden.__
 
 | Vern | Forsvar |
-| ------------- |: -------------:|
-|+1 | Hjelm |
-|+2 | Skuddsikker vest |
-
-| Vern | Forsvar |
 | ------------- |:-------------:|
 |+1 |  Hjelm|
 +2 |  Skuddsikker vest|
