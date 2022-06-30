@@ -3,12 +3,12 @@
 ## Eigenskapar
 
 __Du har seks eigenskapar:__ 
-STR  -  Kor sterk du er
-DEX  -  Kor smidig og fingernem du er
-INT  -  Kor mykje kunnskap du har
-WIS  -  Kor flink du er til å improvisera
-CON  -  Kor mykje du tåler og kor lenge du held ut
-CHA  -  Kor sjarmerande og karismatisk du er
+STR  -  Kor sterk du er  
+DEX  -  Kor smidig og fingernem du er  
+INT  -  Kor mykje kunnskap du har  
+WIS  -  Kor flink du er til å improvisera  
+CON  -  Kor mykje du tåler og kor lenge du held ut  
+CHA  -  Kor sjarmerande og karismatisk du er  
 
 Du fordeler __+2, +1, +1, 0, 0 og -1__ på dei ulike eigenskapane.
 
