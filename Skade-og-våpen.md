@@ -19,4 +19,4 @@ __Dersom du tek skade og har på deg noko som forsvarar deg, eller søker ly bak
 +3 |  Skuddsikker vest| Bak ein murvegg |
 
 
-###__Ein kniv mot strupen eller eit skot i nakken på kloss hold er alltid dødeleg. Då treng du ikkje trilla skade.__
+### __Ein kniv mot strupen eller eit skot i nakken på kloss hold er alltid dødeleg. Då treng du ikkje trilla skade.__
