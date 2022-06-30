@@ -2,7 +2,9 @@
 
 ## Skade
 
-__Når du gjer skade på nokon bruker du skadeterningen til våpenet ditt.__
+Når du gjer skade på nokon bruker du skadeterningen til våpenet ditt.
+
+Ein kniv mot strupen eller eit skot i nakken på kloss hold er alltid dødeleg. Då treng du ikkje trilla skade.
 
 | Skade | Våpen |
 | :-------------: |:-------------:|
@@ -11,11 +13,9 @@ T6  |  Kniv|
 T8  |  Pistol og hagla|
 T10  |  Rifler og maskingevær|
 
-__Ein kniv mot strupen eller eit skot i nakken på kloss hold er alltid dødeleg. Då treng du ikkje trilla skade.__
-
 ## Forsvar
 
-__Dersom du tek skade og har på deg noko som forsvarar deg, eller søker ly bak noko, kan du trekka forsvaret frå skaden.__
+Dersom du tek skade og har på deg noko som forsvarar deg, eller søker ly bak noko, kan du trekka forsvaret frå skaden.
 
 | Vern | Rustning | Ly |
 | :-------------: |:-------------:|:-------------:|
