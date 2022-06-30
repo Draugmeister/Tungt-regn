@@ -11,7 +11,7 @@ T8  |  Pistol og hagla|
 T10  |  Rifler og maskingevær|
 
 
-__Dersom du tek skade og har på deg noko som forsvarar deg, kan du trekka forsvaret frå skaden.__
+__Dersom du tek skade og har på deg noko som forsvarar deg, eller søker ly bak noko, kan du trekka forsvaret frå skaden.__
 
 | Vern | Rustning | Ly |
 | :-------------: |:-------------:|:-------------:|
