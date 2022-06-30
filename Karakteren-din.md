@@ -48,8 +48,8 @@ Trill to gongar på tabellen under, ein gong for yrke og ein gong for Hobby – 
 
 ## Trekk
 
-Trekk er reglar som vert aktivert av fiksjonen. Det er eit sett trekk som alle kan bruka, som du finn i Trekk-dokumentet.
-I tillegg til desse almenne trekka har kvar karakter eit sett med personlege trekk.
+Trekk er reglar som vert aktivert av fiksjonen. Det er eitt sett trekk som alle kan bruka, som du finn i Trekk-dokumentet.
+I tillegg til desse almenne trekka har kvar karakter eitt sett med personlege trekk.
 
 __Du byrjer med tre personlege trekk.__ Vel tre trekk frå lista under, gje trekket ein tittel og fyll inn parantesane med noko som er relevant for bakgrunnen din.
 
