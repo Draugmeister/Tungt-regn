@@ -18,5 +18,10 @@ __Dersom du tek skade og har på deg noko som forsvarar deg, kan du trekka forsv
 | +1 | Hjelm |
 | +2 | Skuddsikker vest |
 
+| Vern | Forsvar |
+| ------------- |:-------------:|
+|+1 |  Hjelm|
++2 |  Skuddsikker vest|
+
 
 __Ein kniv mot strupen eller eit skot i nakken på kloss hold er alltid dødeleg. Då treng du ikkje trilla skade.__
