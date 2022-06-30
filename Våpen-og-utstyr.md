@@ -23,6 +23,10 @@ Dersom du tek skade og har på deg noko som forsvarar deg, eller søker ly bak n
 |+2 |  Hjelm| Bak ein bil |
 +3 |  Skuddsikker vest| Bak ein murvegg |
 
+## Utstyr
+
+Dersom du bruker rett verktøy til ein jobb får du +2, om du bruker eit improvisert reidskap eller ei macgyver-løysing må du trilla for å sjå om det fungerer.
+
 ## Vekt  
 
 - Dei fleste gjenstandar har ei vekt på 1.  
