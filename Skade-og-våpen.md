@@ -13,7 +13,7 @@ T10  |  Rifler og maskingevær|
 
 __Dersom du tek skade og har på deg noko som forsvarar deg, kan du trekka forsvaret frå skaden.__
 
-| Vern | Forsvar |
+| Vern | Rustning | Ly |
 | ------------- |:-------------:|-------------:|
 |+1 |  Improvisert rustning| Bak eit bord |
 |+2 |  Hjelm| Bak ein bil |
