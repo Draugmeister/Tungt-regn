@@ -32,7 +32,8 @@ Dersom du bruker rett verktøy til ein jobb får du +2, om du bruker eit improvi
 - Dei fleste gjenstandar har ei vekt på 1.  
 - Store og tunge ting, som du må halda i to hender veg 2.  
 - Om noko er veldig stort og tungt kan du ikkje bæra noko anna samstundes.  
-- Ting du såvidt greier å løfta kan du berre bæra eit kort stykke.  
+- Ting du såvidt greier å løfta kan du berre bæra eit kort stykke. 
+- Småting som får plass i ei lomma veger ingenting. 
 
 
 
