@@ -4,7 +4,7 @@ Trekk er reglar som følgjer fiksjonen. Kvart trekk har ein utløysar, i feit sk
 
 Det er fleire __grunntrekk__ som alle kan gjera, i tillegg til at karakteren din kan få __personlege trekk__.  
 
-Grunnideèn bak kvart trekk er den same:
+Om eit trekk ber deg trilla er det alltid 2T6, og prinsippet er alltid det same:
 
 > ### Gjer noko
 > Når __du prøver å gjera noko, og utfallet er uvisst eller risikabelt__, triller du to sekssida terningar og legg saman resultatet.
