@@ -1,6 +1,6 @@
 # Skade og våpen
 
-__Når gjer skade på nokon bruker du skadeterningen til våpenet ditt.__
+__Når du gjer skade på nokon bruker du skadeterningen til våpenet ditt.__
 
 | Skade | Våpen |
 | :-------------: |:-------------:|
