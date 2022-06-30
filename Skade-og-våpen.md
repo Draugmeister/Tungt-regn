@@ -15,8 +15,8 @@ __Dersom du tek skade og har på deg noko som forsvarar deg, kan du trekka forsv
 
 | Vern | Forsvar |
 | ------------- |: -------------:|
-| +1 | Hjelm |
-| +2 | Skuddsikker vest |
+|+1 | Hjelm |
+|+2 | Skuddsikker vest |
 
 | Vern | Forsvar |
 | ------------- |:-------------:|
