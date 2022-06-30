@@ -15,7 +15,7 @@ __Dersom du tek skade og har på deg noko som forsvarar deg, kan du trekka forsv
 
 | Vern | Rustning | Ly |
 | :-------------: |:-------------:|:-------------:|
-|+1 |  Improvisert rustning| Bak eit bord |
+|+1 |  Improvisert rustning| Bak eit tre |
 |+2 |  Hjelm| Bak ein bil |
 +3 |  Skuddsikker vest| Bak ein murvegg |
 
