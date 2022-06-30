@@ -25,25 +25,25 @@ Trill to gongar på tabellen under, ein gong for yrke og ein gong for Hobby – 
 
 | D20 | Yrke                      | Hobby             |
 | --- | ------------------------- | ----------------- |
-| 1   | Bilmekanikar              | Fiske             |
+| 1   | Salgskonsulent             | Fiske             |
 | 2   | Autorisert regnskapsførar | Dataspel          |
-| 3   | Bruktbilhandlar           | Hage              |
-| 4   | Gründar                   | Strikking         |
-| 5   | Journalist                | Maraton           |
+| 3   | Föringsrådgjevar           | Hage              |
+| 4   | Gründar / CEO                   | Strikking         |
+| 5   | Frilansjournalist               | Maraton           |
 | 6   | Proffsyklist              | Sying             |
-| 7   | Bibliotekar               | Snekring          |
-| 8   | Elektrikar                | Matlaging         |
+| 7   | Innhaldsmarkedsførar               | Snekring          |
+| 8   | Serviceelektrikar                | Matlaging         |
 | 9   | Full stack developer      | Paintball         |
-| 10  | Lærar                     | Jakt              |
-| 11  | Psykolog                  | Dikt              |
-| 12  | Lege                      | Sjakk             |
-| 13  | Hjelpepleiar              | Reising           |
-| 14  | Bonde                     | Basketball        |
-| 15  | Gartnar                   | Orientering       |
-| 16  | Tømrar                    | Segling           |
-| 17  | Forfattar                 | Mikrofly          |
-| 18  | Bolighai                  | Fallskjermhopping |
-| 19  | Ingeniør                  | Klatring          |
+| 10  | Faglærar teknologi                     | Jakt              |
+| 11  | Senior kommunikasjonsrådgiver                  | Dikt              |
+| 12  | Intensivsjukepleiar                      | Sjakk             |
+| 13  | Maskin og serviceoperatør              | Reising           |
+| 14  | Markedsorientert og nytenkende leder                     | Basketball        |
+| 15  | Annlegsgartnar                   | Orientering       |
+| 16  | Markedsorientert og nytenkende leder                   | Segling           |
+| 17  | Sjølvpublisert forfattar                 | Mikrofly          |
+| 18  | Eigedomsforvaltar                  | Fallskjermhopping |
+| 19  | Pre-Comissioning Engineer                  | Klatring          |
 | 20  | Konsulent                 | Fuglar            |
 
 ## Trekk
