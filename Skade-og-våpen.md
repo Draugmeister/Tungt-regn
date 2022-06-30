@@ -2,7 +2,6 @@
 
 __Når gjer skade på nokon bruker du skadeterningen til våpenet ditt.__
 
-Omtrentleg skade:
 | Skade | Våpen |
 | :-------------: |:-------------:|
 |T4  |  Steinar, stokkar og stolar|
@@ -20,4 +19,4 @@ __Dersom du tek skade og har på deg noko som forsvarar deg, eller søker ly bak
 +3 |  Skuddsikker vest| Bak ein murvegg |
 
 
-> Ein kniv mot strupen eller eit skot i nakken på kloss hold er alltid dødeleg. Då treng du ikkje trilla skade.
+> __Ein kniv mot strupen eller eit skot i nakken på kloss hold er alltid dødeleg. Då treng du ikkje trilla skade.__
