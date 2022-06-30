@@ -23,12 +23,12 @@ Dersom du tek skade og har på deg noko som forsvarar deg, eller søker ly bak n
 |+2 |  Hjelm| Bak ein bil |
 +3 |  Skuddsikker vest| Bak ein murvegg |
 
-## Vekt
+## Vekt  
 
-Dei fleste gjenstandar har ei vekt på 1.  
-Store og tunge ting, som du må halda i to hender veg 2.  
-Om noko er veldig stort og tungt kan du ikkje bæra noko anna samstundes.  
-Ting du såvidt greier å løfta kan du berre bæra eit kort stykke.  
+- Dei fleste gjenstandar har ei vekt på 1.  
+- Store og tunge ting, som du må halda i to hender veg 2.  
+- Om noko er veldig stort og tungt kan du ikkje bæra noko anna samstundes.  
+- Ting du såvidt greier å løfta kan du berre bæra eit kort stykke.  
 
 
 
