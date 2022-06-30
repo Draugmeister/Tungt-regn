@@ -1,4 +1,6 @@
-# Skade og våpen
+# Våpen og utstyr
+
+## Skade
 
 __Når du gjer skade på nokon bruker du skadeterningen til våpenet ditt.__
 
@@ -9,6 +11,9 @@ T6  |  Kniv|
 T8  |  Pistol og hagla|
 T10  |  Rifler og maskingevær|
 
+__Ein kniv mot strupen eller eit skot i nakken på kloss hold er alltid dødeleg. Då treng du ikkje trilla skade.__
+
+## Forsvar
 
 __Dersom du tek skade og har på deg noko som forsvarar deg, eller søker ly bak noko, kan du trekka forsvaret frå skaden.__
 
@@ -18,5 +23,9 @@ __Dersom du tek skade og har på deg noko som forsvarar deg, eller søker ly bak
 |+2 |  Hjelm| Bak ein bil |
 +3 |  Skuddsikker vest| Bak ein murvegg |
 
+## Vekt
 
-__Ein kniv mot strupen eller eit skot i nakken på kloss hold er alltid dødeleg. Då treng du ikkje trilla skade.__
+Dei fleste gjenstandar har ei vekt på 1. Store og tunge ting, som du må halda i to hender veg 2.
+
+
+
