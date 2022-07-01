@@ -11,12 +11,6 @@ Det er fleire __grunntrekk__ som alle kan gjera, i tillegg til at karakteren din
 > - Om du får __6-__, går det __dårleg__ — du får det ikkje til, og det får mest truleg konsekvensar. __Marker erfaring.__
 
 
-## Grunntrekk
-
-Desse trekka kan alle bruka.
-
-+ level opp frå DW
-
 # Personlege trekk
 
 Personlege trekk er trekk som berre din karakter kan bruka. Dei reflekterer bakgrunnen og ferdigheitane dine.
@@ -43,6 +37,8 @@ Når du *__pratar skit og prøver å overtala eller villeda nokon__*, trill +CHA
 ---------
 
 # Gennerelle trekk
+
+Desse trekka kan alle bruka.
 
 ### Basic moves
 
