@@ -19,7 +19,7 @@ Desse trekka kan alle bruka.
 
 # Personlege trekk
 
-Personlege trekk er trekk som berre din karakter kan bruka. Dei reflekterer bakgrunnen og ferdigheitane dine. Du kan laga eigne personlege trekk.
+Personlege trekk er trekk som berre din karakter kan bruka. Dei reflekterer bakgrunnen og ferdigheitane dine.
 
 Under er nokre eksempel på personlege trekk.
 
