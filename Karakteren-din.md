@@ -2,7 +2,8 @@
 
 ## Eigenskapar
 
-__Du har seks eigenskapar:__ 
+__Du har seks eigenskapar:__  
+
 STR  -  Kor sterk du er  
 DEX  -  Kor smidig og fingernem du er  
 INT  -  Kor mykje kunnskap du har  
