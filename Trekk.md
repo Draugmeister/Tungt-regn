@@ -4,7 +4,7 @@ Trekk er reglar som følgjer fiksjonen. Kvart trekk har ein utløysar, i feit sk
 
 Det er fleire __grunntrekk__ som alle kan gjera, i tillegg til at karakteren din kan få __personlege trekk__.  
 
-> Du triller alltid 2T6 og legg saman resultatet, og legg til eventuelle bonusar.
+> Du triller alltid to sekssida terningar, legg saman resultatet og legg til eventuelle bonusar.
 >
 > - Om du får __10+__, er det ein __suksess__ — det går din veg.
 > - Om du får __7-9__, er det ein __delvis suksess__ — du får til det du prøvde på, men det er konsekvensar.
