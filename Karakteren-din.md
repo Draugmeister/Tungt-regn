@@ -71,3 +71,11 @@ I tillegg har du med deg tre ting:
 - Noko __praktisk__.
 - Noko __viktig__.
 - Noko __personleg__.
+
+### Vekt  
+
+- __Dei fleste gjenstandar__ har ei vekt på 1.  
+- __Store og tunge ting__, som du må halda i to hender veg 2.  
+- Om noko er __veldig stort og tungt__ kan du ikkje bæra noko anna samstundes.  
+- Ting du __såvidt greier å løfta__ kan du berre bæra eit kort stykke. 
+- Småtteri som __får plass i ei lomma__ veger ingenting. 
