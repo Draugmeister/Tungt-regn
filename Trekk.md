@@ -19,13 +19,25 @@ Desse trekka kan alle bruka.
 
 # Personlege trekk
 
+Personlege trekk er trekk som berre din karakter kan bruka. Dei reflekterer bakgrunnen og ferdigheitane dine. Du kan laga eigne personlege trekk.
+
+Under er nokre eksempel på personlege trekk.
+
 ## Praktisk anlagt
+Når *__du har ei lur løysing på eit praktisk problem__*, sei kva du gjer og trill +WIS.
+
+- På 10+ fungerer det godt, du får +1 framover med løysinga • På 7-9 fungerer det, men løysinga har ein skavank.
 
 ## Mekanikar
+Du får +1 når du *__prøver å reparera noko mekanisk__*.
 
 ## Digital kompetanse
+Du får +1 når du *__nyttar digitale verktøy__*.
 
-## BA i Leadership
+## Bullshit artist
+Når du prøver prater skit og prøver å overtala eller villeda nokon, trill +CHA.
+
+- På 10+ trur dei på deg, ta +1 framover mot dei. - På 7-9 trur dei på deg, men dei er skeptiske til deg i framtida. På 6- trur dei ikkje på deg, og du tek -1 framover mot dei. 
 
 
 ---------
