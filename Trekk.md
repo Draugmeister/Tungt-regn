@@ -219,6 +219,22 @@ For each “yes,”everyone marks XP.
 
 ----
 
+## Level Up  
+
+When you *__have downtime (hours or days) and XP
+equal to (or greater than) the sum of your current
+level plus 7,__* and aren’t level 10, do the following:
+
+• Subtract 7 and then your current level from your XP.
+• Increase your level by 1.
+• At every even level (2, 4, 6, 8), increase one of your
+modifiers by +1, but you can’t increase modifiers
+above +3. At every odd level (3, 5, 7, 9), increase your
+HP by 2.
+• Vel eller lag eit nytt personleg trekk.
+
+----
+
 ## Carouse
 
 When you *__return triumphant and throw a big
