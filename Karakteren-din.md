@@ -43,7 +43,7 @@ Trill to gongar på tabellen under, ein gong for yrke og ein gong for Hobby – 
 | 15  | Annlegsgartnar                   | Orientering       |
 | 16  | Markedsorientert og nytenkende leder                   | Segling           |
 | 17  | Sjølvpublisert forfattar                 | Mikrofly          |
-| 18  | Eigedomsforvaltar                  | Fallskjermhopping |
+| 18  | Eigendomsforvaltar                  | Fallskjermhopping |
 | 19  | Pre-Comissioning Engineer                  | Klatring          |
 | 20  | Konsulent                 | Fuglar            |
 
