@@ -65,4 +65,9 @@ Du kan lesa meir om trekk og korleis dei virker i TREKK-dokumentet.
 
 ## Utstyr
 
-Du byrjer med
+Du har med deg _rasjonar_ nok til fem dagar og fem _ekspedisjonsutstyr_.
+
+I tillegg har du med deg tre ting:
+- Noko __praktisk__
+- Noko __viktig__
+- Noko __personleg__
