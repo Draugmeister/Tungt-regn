@@ -2,14 +2,14 @@
 
 ## Eigenskapar
 
-__Du har seks eigenskapar:__  
+Du har seks __eigenskapar:__  
 
-STR  -  Kor sterk du er  
-DEX  -  Kor smidig og fingernem du er  
-INT  -  Kor mykje kunnskap du har  
-WIS  -  Kor flink du er til å improvisera  
-CON  -  Kor mykje du tåler og kor lenge du held ut  
-CHA  -  Kor sjarmerande og karismatisk du er  
+__STR__  -  Kor sterk du er  
+__DEX__  -  Kor smidig og fingernem du er  
+__INT__  -  Kor mykje kunnskap du har  
+__WIS__  -  Kor flink du er til å improvisera  
+__CON__  -  Kor mykje du tåler og kor lenge du held ut  
+__CHA__  -  Kor sjarmerande og karismatisk du er  
 
 Du fordeler __+2, +1, +1, 0, 0 og -1__ på dei ulike eigenskapane.
 
@@ -56,10 +56,13 @@ __Du byrjer med tre personlege trekk.__
 Vel tre trekk frå lista under, gje kvart trekk ein tittel og fyll inn parantesane med noko som er relevant for bakgrunnen din.
 
 - Når du gjer noko som er relevant til (spesialitet), ta +1.
-- Du har evna til å (gjera noko spesielt). Det fungerer som eit grunntrekk med (eigenskap).- 
+- Du har evna til å (gjera noko spesielt). Det fungerer som eit grunntrekk med (eigenskap). 
 - Du har (ein passiv kraft eller evne som har konstant effekt).
-- Du har ein (ting). Når du bruker den får du +1.
 - Når du gjer (spesialitet), marker røynsle.
 - Legg til +1 til (eigenskap).
 
 Du kan lesa meir om trekk og korleis dei virker i TREKK-dokumentet.
+
+## Utstyr
+
+Du byrjer med
