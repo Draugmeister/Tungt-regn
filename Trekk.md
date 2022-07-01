@@ -35,7 +35,7 @@ Du får +1 når du *__prøver å reparera noko mekanisk__*.
 Du får +1 når du *__nyttar digitale verktøy__*.
 
 ## Bullshit artist
-Når du prøver prater skit og prøver å overtala eller villeda nokon, trill +CHA.
+Når du *__pratar skit og prøver å overtala eller villeda nokon__*, trill +CHA.
 
 - På 10+ trur dei på deg, ta +1 framover mot dei. - På 7-9 trur dei på deg, men dei er skeptiske til deg i framtida. På 6- trur dei ikkje på deg, og du tek -1 framover mot dei. 
 
