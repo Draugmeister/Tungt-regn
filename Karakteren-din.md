@@ -61,7 +61,7 @@ Vel tre trekk frå lista under, gje kvart trekk ein tittel og fyll inn parantesa
 - Når du gjer (spesialitet), marker røynsle.
 - Legg til +1 til (eigenskap).
 
-Du kan lesa meir om trekk og korleis dei virker i TREKK-dokumentet.
+Du kan lesa meir om trekk og korleis dei virker i [trekk-dokumentet](trekk.md).
 
 ## Utstyr
 
