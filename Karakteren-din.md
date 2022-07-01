@@ -4,12 +4,12 @@
 
 Du har seks __eigenskapar:__  
 
-__STR__  -  Kor sterk du er  
-__DEX__  -  Kor smidig og fingernem du er  
-__INT__  -  Kor mykje kunnskap du har  
-__WIS__  -  Kor flink du er til å improvisera  
-__CON__  -  Kor mykje du tåler og kor lenge du held ut  
-__CHA__  -  Kor sjarmerande og karismatisk du er  
+__STR__   -  Kor sterk du er  
+__DEX__   -  Kor smidig og fingernem du er  
+__INT__   -  Kor mykje kunnskap du har  
+__WIS__   -  Kor flink du er til å improvisera  
+__CON__   -  Kor mykje du tåler og kor lenge du held ut  
+__CHA__   -  Kor sjarmerande og karismatisk du er  
 
 Du fordeler __+2, +1, +1, 0, 0 og -1__ på dei ulike eigenskapane.
 
