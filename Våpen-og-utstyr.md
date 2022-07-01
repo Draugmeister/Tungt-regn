@@ -29,11 +29,11 @@ Dersom du bruker rett verktøy til ein jobb får du +2, om du bruker eit improvi
 
 ## Vekt  
 
-- Dei fleste gjenstandar har ei vekt på 1.  
-- Store og tunge ting, som du må halda i to hender veg 2.  
-- Om noko er veldig stort og tungt kan du ikkje bæra noko anna samstundes.  
-- Ting du såvidt greier å løfta kan du berre bæra eit kort stykke. 
-- Småtteri som får plass i ei lomma veger ingenting. 
+- __Dei fleste gjenstandar__ har ei vekt på 1.  
+- __Store og tunge ting__, som du må halda i to hender veg 2.  
+- Om noko er __veldig stort og tungt__ kan du ikkje bæra noko anna samstundes.  
+- Ting du __såvidt greier å løfta__ kan du berre bæra eit kort stykke. 
+- Småtteri som __får plass i ei lomma__ veger ingenting. 
 
 
 
