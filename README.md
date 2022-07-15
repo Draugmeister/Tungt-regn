@@ -19,14 +19,14 @@ Post-klimakatastrofe verd. Ruiner med teknologi frå vår tid. Kraftstasjonar, d
 
 ## Inspirasjon
 
-- Disco Elysium, ZA/UM, 2019.
+- *Disco Elysium*, ZA/UM, 2019.
 
-- Fallout, 	Interplay Productions, 1997.
+- *Fallout*, 	Interplay Productions, 1997.
 
-- Kon-Tiki, Thor Heyerdahl, 1948.
+- *Kon-Tiki*, Thor Heyerdahl, 1948.
 
-- Robinson Crusoe, Daniel Defoe, 1719.
+- *Robinson Crusoe*, Daniel Defoe, 1719.
 
-- The Grapes of Wrath, John Steinbeck, 1939.
+- *The Grapes of Wrath*, John Steinbeck, 1939.
 
-- Trilogien, Jon Fosse, Samlaget, 2014.
+- *Trilogien*, Jon Fosse, Samlaget, 2014.
