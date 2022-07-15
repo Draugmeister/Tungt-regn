@@ -1,6 +1,6 @@
 # Tungt-regn
 
-> Post-klimakatastrofe verd. Ruiner med teknologi frå vår tid. Kraftstasjonar, dammar og tunnelar.
+Post-klimakatastrofe verd. Ruiner med teknologi frå vår tid. Kraftstasjonar, dammar og tunnelar.
 
 ## Prinsipp
 
