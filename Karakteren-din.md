@@ -4,9 +4,9 @@
 
 Roll 3d6 for each __Ability Score__. 10 is average. 
 
-__Strength__ – Fighting, fortitude, and toughness.
-__Dexterity__ – Stealth, athletics, and reflexes.
-__Willpower__ – Confidence, discipline, and charisma.
+__Strength__ – Fighting, fortitude, and toughness.  
+__Dexterity__ – Stealth, athletics, and reflexes.  
+__Willpower__ – Confidence, discipline, and charisma.  
 
 Characters start with d6 __Hit Points__, a measure of their ability to avoid life-threatening Damage.
 
