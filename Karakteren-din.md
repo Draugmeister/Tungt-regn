@@ -12,9 +12,33 @@ Characters start with d6 __Hit Points__, a measure of their ability to avoid lif
 
 ## Companions
 
-For small player groups, each player may create one or more companions. Roll their Ability Scores in order and give them 1 hp and a sword.
+For small player groups, each player may create one or more companions. Roll their Ability Scores in order and give them 1 hp, a sword and 2 inventory slots.
+
+## Inventory
+
+Characters have a total of 10 inventory
+slots: a backpack with six slots, one slot for
+each hand, and two slots for their upper
+body (such as the belt, chest, or head).
+
+Most items take up one slot, and small
+items can be bundled together. Slots are
+abstract and can be rearranged per the
+GMs discretion.
+
+__Bulky__ items take up two slots and are
+typically two-handed or awkward to
+carry. Anyone carrying a full inventory
+(e.g. filling all 10 slots) is reduced to 0 HP.
+
+A PC cannot carry more items than their
+inventory allows. Carts (which must be
+pulled with both hands), horses, or mules
+can increase inventory. Hirelings or companions can also be paid to carry equipment.
 
 ## What Do You Have?
+
+You start with D6 silver.
 
 Match your highest __Ability Score__ against your __Hit Points__ to find your starting package. Weapons have their damage roll listed. If two characters would have the same equipment, the second character takes their starting package from the column to the left, or right if this is not possible.
 
