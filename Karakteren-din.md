@@ -1,13 +1,19 @@
-# Karakteren din
+# Your Character
 
-## Namn, bakgrunn og eigenskapar
+## Who Are You?
 
-Fyrst triller du fram eit namn og ein bakgrunn for karakteren din, frå tabellane under...
+Roll 3d6 for each __Ability Score__. 10 is average. 
 
-## Evner
+__Strength__ – Fighting, fortitude, and toughness.
+__Dexterity__ – Stealth, athletics, and reflexes.
+__Willpower__ – Confidence, discipline, and charisma.
 
-Karakteren din har tre evner: __Styrke (STY)__, __Smidigheit (SMI)__ og __Vilje (VIL)__.
+Characters start with d6 __Hit Points__, a measure of their ability to avoid life-threatening Damage.
 
-Trill 3t6 for kvar evne, i den rekkefølgjen dei står, og legg saman resultatet. Du kan bytta plass på to av poengsummane.
+## Starter Package
 
-_Døme: Per triller for __STY__ og får 2, 4 og 6 - totalt 12. For __SMI__ får han 9 og 13 for __VIL__. Han bestemmer seg for å bytta om på 12 og 9, og ender opp med ein karakter med __9 STR, 12 SMI__ og __13 VIL__._
+Consult the __Starter Package Table__ on the facing page to find your starting equipment and any special information about your character. As well as individual equipment, an expedition always has lanterns, basic climbing, mapping, camping equipment, and rations.
+
+## Companions
+
+For small player groups, each player may create one or more companions. Roll their Ability Scores in order and give them 1 hp and a sword.
