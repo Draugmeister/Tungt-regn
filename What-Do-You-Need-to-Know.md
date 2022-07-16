@@ -11,7 +11,7 @@ Roll 2d20 and compare it to the appropriate Ability Score.
 
 ## Die of Fate
 
-If something is uncertain in the fiction, you may roll a D6 to get answers.
+If something is uncertain in the fiction, the GM may ask you to roll a D6 to get answers.
 
 __4-6__ It's something nice, helpfull or advantageus.
 __2-3__ It's something potentially bad.
