@@ -8,8 +8,8 @@ Ein kniv mot strupen eller eit skot i nakken på kloss hold er alltid dødeleg. 
 
 | Skade | Våpen |
 | :-------------: |:-------------:|
-|T4  |  Steinar, stokkar og stolar|
-T6  |  Kniv|
+| T4 |  Improvisert |
+|T6  |  Kniv|
 T8  |  Pistol og hagla|
 T10  |  Rifler og maskingevær|
 
