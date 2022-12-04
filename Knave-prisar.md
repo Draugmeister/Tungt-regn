@@ -1,5 +1,5 @@
-Tools & Gear
-
+| Tools & Gear            | Price|
+| ----------------------- | ---- |
 | Air Bladder             | 5    |
 | Bear Trap               | 20   |
 | Bedroll                 | 10   |
