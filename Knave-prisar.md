@@ -90,3 +90,16 @@
 | Chain     | 1200       |
 | Half Plate | 4000       |
 | Full Plate  | 8000|
+
+## Weapons
+
+| Weapons  | Price |
+| ------------------------------------------------------------------------------------------- | -------- |
+| Dagger, Cudgel, Sickle, Staff, etc.                | 5        |
+| Spear, Sword, Mace, Axe, Flail, etc.              | 10       |
+| Halberd, War Hammer, Long Sword, Battle Axe, etc.  | 20     |
+| Sling                                               | 5        |
+| Bow                                              | 15       |
+| Crossbow                                           | 60       |
+| Arrows (20)                                                                                 | 5        |
+| Quiver (capacity 20)                                                                        | 10       |
