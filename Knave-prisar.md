@@ -1,3 +1,5 @@
+# Item costs
+
 ## Tools & Gear     
 
 | Tools & Gear            | Price|
@@ -106,10 +108,114 @@
 
 ## Clothes  
 
-|  |  |
+| Clothes | Price |
 | -------- | ---- |
 | Poor     | 10   |
 | Standard | 50   |
 | Noble    | 3000 |
 | Furs     | 5000 |
 | Winter   | 100  |
+
+## Food
+
+| Food | Price |
+| ------------------------ | --- |
+| Travel rations (1 day)   | 5   |
+| Animal Feed (1 day)      | 2   |
+| Bacon, side of           | 10  |
+| Bread, 1 loaf            | 1   |
+| Cheese, 1 lb             | 2   |
+| Cider, 4 gallons         | 1   |
+| Cod, whole               | 20  |
+| Eggs, 24                 | 1   |
+| Flour, 5 lbs             | 1   |
+| Fruit, 1 lb              | 1   |
+| Garlic, bunch            | 1   |
+| Grain, 1 bushel (8 gal.) | 4   |
+| Herbs, 1 bunch           | 1   |
+| Lard, 5 lbs              | 1   |
+| Onions, 1 bushel         | 8   |
+| Salt, 1 bushel           | 3   |
+| Spices, 1 lb             | 100 |
+| Sugar, 1 lb              | 12  |
+| Wine/ale, bottle         | 1   |
+
+## Animals  
+
+| Animals | Price |
+| ---------------------- | ------ |
+| Chicken                | 1      |
+| Cow                    | 100    |
+| Dog, hunting           | 50     |
+| Dog, small but vicious | 20     |
+| Donkey/Pack Horse      | 300    |
+| Goat                   | 10     |
+| Hawk                   | 1000   |
+| Horse, riding          | 1000   |
+| Horse, war             | 10,000 |
+| Ox                     | 300    |
+| Pig                    | 30     |
+| Sheep                  | 15     |
+
+## Lodging
+
+| Lodging | Price |
+| ----------------------- | - |
+| Bed, per night          | 1 |
+| Private room, per night | 2 |
+| Meal                    | 2 |
+| Hot bath                | 2 |
+| Stabling and fodder     | 2 |
+
+## Ships
+
+| Ships | Price |
+| ------------------ | ------- |
+| Ship, high quality | 720/ton |
+| Ship, good quality | 480/ton |
+| Ship, used quality | 240/ton |
+| Ship, poor quality | 120/ton |
+| Raft               | 50      |
+| Fishing boat       | 500     |
+| Sloop              | 5000    |
+| Caravel            | 25,000  |
+| Galleon            | 125,000 |
+
+## Transport
+
+| Transport | Price |
+| -------- | --- |
+| Carriage | 320 |
+| Cart     | 50  |
+| Wagon    | 120 |
+
+## Henchmen
+
+| Henchmen | Price |
+| --------------------- | -- |
+| Laborer               | 1  |
+| Scribe                | 2  |
+| Archer                | 3  |
+| Mason                 | 4  |
+| Man-at-arms, on foot  | 6  |
+| Armorer or Blacksmith | 8  |
+| Man-at-arms, mounted  | 12 |
+| Master Builder        | 15 |
+| Barber-Surgeon        | 25 |
+| Knight                | 25 |
+
+## Buildings
+
+| Buildings | Price |
+| -------------------- | --------- |
+| Hovel                | 120       |
+| Row House            | 1200      |
+| Craftsman’s House    | 2400      |
+| Merchant’s House     | 7200      |
+| House with Courtyard | 21,600    |
+| Guildhall            | 32,600    |
+| Stone Tower          | 48,000    |
+| Temple               | 75,000    |
+| Stronghold           | 100,000   |
+| Cathedral            | 500,000   |
+| Imperial Palace      | 2,500,000 |
