@@ -67,6 +67,7 @@
 | Waterskin               | 5    |
 | Whistle                 | 5    |
 
+
 ## Light
 
 | Light | Price |
@@ -78,28 +79,14 @@
 | Torch, 1 hour     | 1  |
 
 
+## Armour
 
-| Shield
-
-(Defense +1, 1 slot, 1 quality)       | 40         |
+| Armour | Price |
 | --------------------------------------------- | ---------- |
-| Helmet
-
-(Defense +1, 1 slot, 1 quality)       | 40         |
-| Gambeson
-
-(Defense 12, 1 slot, 3 quality)     | 60         |
-| Brigandine 
-
-(Defense 13, 2 slots, 4 quality) | 500        |
-| Chain 
-
-(Defense 14, 3 slots, 5 quality)      | 1200       |
-| Half Plate 
-
-(Defense 15, 4 slots, 6 quality) | 4000       |
-| Full Plate 
-
-(Defense 16, 5 slots, 7 quality) | 8000
-
-<br> |
+| Shield      | 40         |
+| Helmet      | 40         |
+| Gambeson   | 60         |
+| Brigandine  | 500        |
+| Chain     | 1200       |
+| Half Plate | 4000       |
+| Full Plate  | 8000|
