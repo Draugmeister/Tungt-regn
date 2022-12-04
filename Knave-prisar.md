@@ -219,3 +219,5 @@
 | Stronghold           | 100,000   |
 | Cathedral            | 500,000   |
 | Imperial Palace      | 2,500,000 |
+
+Source: Knave by Ben Milton
