@@ -1,3 +1,5 @@
+## Tools & Gear     
+
 | Tools & Gear            | Price|
 | ----------------------- | ---- |
 | Air Bladder             | 5    |
@@ -67,7 +69,7 @@
 
 ## Light
 
-| Light | g |
+| Light | Price |
 | ----------------- | -- |
 | Candle, 4 hours   | 1  |
 | Lantern           | 30 |
