@@ -103,3 +103,13 @@
 | Crossbow                                           | 60       |
 | Arrows (20)                                                                                 | 5        |
 | Quiver (capacity 20)                                                                        | 10       |
+
+## Clothes  
+
+|  |  |
+| -------- | ---- |
+| Poor     | 10   |
+| Standard | 50   |
+| Noble    | 3000 |
+| Furs     | 5000 |
+| Winter   | 100  |
