@@ -67,8 +67,9 @@
 
 ## Light
 
-| Candle, 4 hours   | 1  |
+| Light | g |
 | ----------------- | -- |
+| Candle, 4 hours   | 1  |
 | Lantern           | 30 |
 | Lamp Oil, 4 hours | 5  |
 | Tinderbox         | 10 |
