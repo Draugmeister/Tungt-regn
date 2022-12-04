@@ -1,4 +1,5 @@
-| Tools & Gear |
+Tools & Gear
+
 | ----------------------- | ---- |
 | Air Bladder             | 5    |
 | Bear Trap               | 20   |
