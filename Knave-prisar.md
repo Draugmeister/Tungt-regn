@@ -64,3 +64,12 @@
 | Twine (300 ft)          | 5    |
 | Waterskin               | 5    |
 | Whistle                 | 5    |
+
+## Light
+
+| Candle, 4 hours   | 1  |
+| ----------------- | -- |
+| Lantern           | 30 |
+| Lamp Oil, 4 hours | 5  |
+| Tinderbox         | 10 |
+| Torch, 1 hour     | 1  |
