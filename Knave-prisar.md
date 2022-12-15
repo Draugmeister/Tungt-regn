@@ -1,5 +1,50 @@
 # Item costs
 
+## Weapons
+
+| Weapons  | Price |
+| ------------------------------------------------------------------------------------------- | -------- |
+| Dagger, Cudgel, Sickle, Staff, etc.                | 5        |
+| Spear, Sword, Mace, Axe, Flail, etc.              | 10       |
+| Halberd, War Hammer, Long Sword, Battle Axe, etc.  | 20     |
+| Sling                                               | 5        |
+| Bow                                              | 15       |
+| Crossbow                                           | 60       |
+| Arrows (20)                                                                                 | 5        |
+| Quiver (capacity 20)                                                                        | 10       |
+
+## Armour
+
+| Armour | Price |
+| --------------------------------------------- | ---------- |
+| Shield      | 40         |
+| Helmet      | 40         |
+| Gambeson   | 60         |
+| Brigandine  | 500        |
+| Chain     | 1200       |
+| Half Plate | 4000       |
+| Full Plate  | 8000|
+
+## Clothes  
+
+| Clothes | Price |
+| -------- | ---- |
+| Poor     | 10   |
+| Standard | 50   |
+| Noble    | 3000 |
+| Furs     | 5000 |
+| Winter   | 100  |
+
+## Light
+
+| Light | Price |
+| ----------------- | -- |
+| Candle, 4 hours   | 1  |
+| Lantern           | 30 |
+| Lamp Oil, 4 hours | 5  |
+| Tinderbox         | 10 |
+| Torch, 1 hour     | 1  |
+
 ## Tools & Gear     
 
 | Tools & Gear            | Price|
@@ -68,53 +113,6 @@
 | Twine (300 ft)          | 5    |
 | Waterskin               | 5    |
 | Whistle                 | 5    |
-
-
-## Light
-
-| Light | Price |
-| ----------------- | -- |
-| Candle, 4 hours   | 1  |
-| Lantern           | 30 |
-| Lamp Oil, 4 hours | 5  |
-| Tinderbox         | 10 |
-| Torch, 1 hour     | 1  |
-
-
-## Armour
-
-| Armour | Price |
-| --------------------------------------------- | ---------- |
-| Shield      | 40         |
-| Helmet      | 40         |
-| Gambeson   | 60         |
-| Brigandine  | 500        |
-| Chain     | 1200       |
-| Half Plate | 4000       |
-| Full Plate  | 8000|
-
-## Weapons
-
-| Weapons  | Price |
-| ------------------------------------------------------------------------------------------- | -------- |
-| Dagger, Cudgel, Sickle, Staff, etc.                | 5        |
-| Spear, Sword, Mace, Axe, Flail, etc.              | 10       |
-| Halberd, War Hammer, Long Sword, Battle Axe, etc.  | 20     |
-| Sling                                               | 5        |
-| Bow                                              | 15       |
-| Crossbow                                           | 60       |
-| Arrows (20)                                                                                 | 5        |
-| Quiver (capacity 20)                                                                        | 10       |
-
-## Clothes  
-
-| Clothes | Price |
-| -------- | ---- |
-| Poor     | 10   |
-| Standard | 50   |
-| Noble    | 3000 |
-| Furs     | 5000 |
-| Winter   | 100  |
 
 ## Food
 
